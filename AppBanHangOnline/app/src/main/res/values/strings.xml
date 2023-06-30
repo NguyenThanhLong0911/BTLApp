@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">App bán hàng Online</string>
+
+    <string name="first_slide">Lưa chọn sản phẩm của bạn</string>
+    <string name="second_slide">Chuyển phát nhanh</string>
+    <string name="third_slide">Dịch vụ tốt</string>
+    <string name="description">Hãy cùng trải nhiệm App bán hàng Online của chúng tôi nào!</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
